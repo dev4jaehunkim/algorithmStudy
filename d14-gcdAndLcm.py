@@ -1,3 +1,7 @@
+# Algorithm Study D+14
+# Difficulty: Class 2, Silver 5
+# Problem URL: https:/www.acmicpc.net/problem/2609
+
 def getGcd(n1, n2):
     if n1 % n2 == 0:
         return n2
